@@ -1,6 +1,4 @@
-"""Programming Assignment 5
-This program includes 5 functions that use dictionaries and recursion to analyze hashtag trends on social media.
-Tasks include counting hashtags, identifying their popularity, and merging hashtag lists using recursion."""
+
 # Task 1 : It count how many times each hashtag appears in a week's dictionary
 def count_hashtags(data=None):
     if not data:
